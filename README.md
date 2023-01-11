@@ -19,7 +19,7 @@ In this project, I'll be working with a few stakeholders:
 R was the main technology used for the project. Before working with the datasets, I had to load some libraries that would be used in the analysis. The libraries are Tidyverse for data analysis, readr for loading the datasets, ggplot2 for visualization and lubridate package for working with dates.
 
 ## Datasets
-The datasets where all sourced from [kaggele](kaggle.kernels.output.stanlex33/cyclistic-bike-share-p/path/to/dest)
+The datasets where all sourced from [kaggle](kaggle.kernels.output.stanlex33/cyclistic-bike-share-p/path/to/dest)
 
 ## conclusion
 * Casual riders make more use of docked bike than bike share members who makes more use of classic bikes.
